@@ -3,3 +3,10 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Real players' data from scans (Steam IDs, names, libraries) - never push to the public repo
+network.json
+*.tmp
+
+# Personal editor settings
+.vscode/
